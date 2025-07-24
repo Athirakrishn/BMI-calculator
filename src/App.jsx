@@ -9,7 +9,10 @@ function App() {
   return (
     <>
     <div className="container md-5 justify-content-center text-align-center">
-      <div className="container " style={{height:"450px",width:"400px", backgroundColor:"grey"}}></div>
+      <div className="container " style={{height:"450px",width:"400px", backgroundColor:"grey"}}>
+        <input type="text"  className='text-center text-align-center p-2 mt-3 ' style={{width:"100%"}}/>
+        
+      </div>
     </div>
     </>
   )
