@@ -26,6 +26,10 @@ function App() {
           <div className="col-2 m-2 btn btn-outline-dark text-light shadow">2</div>
           <div className="col-2 m-2 btn btn-outline-dark text-light shadow">1</div>
         </div>
+         <div className="row">
+          <div className="col-3 m-2 btn btn-outline-dark text-light shadow">Height</div>
+          <div className="col-3 m-2 btn btn-outline-dark text-light shadow">Weight</div>
+        </div>
         
       </div>
     </div>
